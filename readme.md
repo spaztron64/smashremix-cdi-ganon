@@ -1,5 +1,12 @@
-# Smash Remix
-*A Super Smash Bros. 64 Mod Organized by The_Smashfather*
+# Smash Remix with CDI Ganon sounds
+*A Super Smash Bros. 64 Mod Organized by The_Smashfather, further modified by spaztron64*
+
+## This is a modified version of Smash Remix that replaces all Ganondorf voice clips with those from the Zelda CD-i games (also Conker gets the Team Fortress 2 frying pan sound).
+
+## This fork will likely become out of date (It's currently based on 1.0.1). 
+## To use this mod in future versions, just clone the main repository (https://github.com/JSsixtyfour/smashremix) and move the src/Ganondorf/sounds and src/Conker/sounds directories from here to the cloned repo.
+
+
 
 ## Building
 ### THIS IS ONLY FOR THOSE INTERESTED IN THE SOURCE CODE OF THE MOD. PLEASE DOWNLOAD THE RELEASE VERSION BY CLICKING THE RELEASE TAB.
